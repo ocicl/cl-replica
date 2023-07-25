@@ -1,0 +1,10 @@
+* cl-replica
+
+Library for hash-table replication via epidemic algorithms
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/IgSokolov/cl-replica.git   |
+| commit  | e418a0b  |
+| systems | cl-replica |
+|---------+-------------------------------------------|
+
