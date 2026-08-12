@@ -8,4 +8,4 @@ Library for hash-table replication via epidemic algorithms
 | systems | cl-replica |
 |---------+-------------------------------------------|
 
- 
+  
